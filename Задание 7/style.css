@@ -1,0 +1,16 @@
+body {
+    background-image: url('jopa.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .content {
+    margin: auto;
+    padding: 50px;
+    width: 100%;
+    max-width: 1500px;
+    box-sizing: border-box;
+  }
+  .image {
+    display: flex;
+    justify-content: center;
+  }
